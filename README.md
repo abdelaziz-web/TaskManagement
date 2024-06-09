@@ -85,7 +85,8 @@ This is an Android application designed for task management.
 
 
 
-## How to Use
-1. **Clone the Repository:**
+## Or you can clone the repository
+
    ```sh
-   git clone 
+   git clone https://github.com/abdelaziz-web/TaskManagement.git
+ 
