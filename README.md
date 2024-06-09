@@ -17,7 +17,8 @@ This is an Android application designed for task management.
 - Users can manage their tasks (Create, Read, Update, Delete).
 - Task information includes ( image, title, description, status (done or not done), user, and date ).
   - ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/3983dfdb-c7da-4021-9f3a-eea8b04ee543)
-     **Add Task**
+    
+      - **Add Task**
     
   - ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/84ff28b7-dc2c-412d-9271-ee0c73d3f6ee)
       **Update Task**
@@ -41,13 +42,13 @@ This is an Android application designed for task management.
 - Users can share their tasks with others.
 - Shared tasks can be private or public.
 - Task sharing mechanism involves sending a task using its ID. The recipient needs the ID to add it to their tasks.
-  - For private tasks, a password is required to exchange tasks.
+- For private tasks, a password is required to exchange tasks.
 
 ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/a1d1577c-1cf7-4c65-a795-07977a644c45)
 ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/db3ff66b-52af-48d9-95a7-b6a24c222c89)
-- to share an task
+  - to share an task
 - ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/1ccac23e-a140-468e-913a-e159c20e81b1)
-- The receiver of task use the shared task id to receive task, and add it to his tasks.
+  - The receiver of task use the shared task id to receive task, and add it to his tasks.
   
 ### 5. Settings/Profile Management
 - Users can manage their profile settings.
