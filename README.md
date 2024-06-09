@@ -7,17 +7,19 @@ This is an Android application designed for task management. Users can register,
 
 ### 1. Register/Authentication
 - Implemented using Firebase Authentication service.
-- Users can create an account and log in.
+- Users can create an account and login.
 ![Register](https://github.com/yourusername/repository-name/blob/main/images/register.png)
 
 ### 2. CRUD Operations
 - Users can manage their tasks (Create, Read, Update, Delete).
-- Task information includes an image, title, description, status (done or not done), user, and date.
+- Task information includes ( image, title, description, status (done or not done), user, and date ).
   - **Add Task**
   - **Update Task**
   - **Task Information**
   - **Show All Tasks**
-![Task Management](https://github.com/yourusername/repository-name/blob/main/images/task_management.png)
+ 
+  - ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/a3ed962a-2148-4004-b4dc-a5077638d33d)
+
 
 ### 3. Search Functionality
 - Users can search for specific tasks.
