@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="#D8ECEB"
+        >
+
+        <EditText
+            android:id="@+id/updatetitle"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:hint="new title"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            >
+
+        </EditText>
+        <EditText
+            android:id="@+id/updatedesc"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:hint="new desc"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            >
+
+        </EditText>
+
+        <Button
+            android:id="@+id/chooseDateButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose new Date"
+            android:layout_centerInParent="true"/>
+        <TextView
+            android:id="@+id/displayDateTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:text="selected date : " />
+
+        <Button
+            android:id="@+id/chooseTimeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose new Time"
+            android:layout_centerInParent="true"/>
+        <TextView
+            android:id="@+id/displayTimeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:text="selected time : " />
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:visibility="gone" />
+        <Button
+            android:id="@+id/UpdateImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Image"
+            android:layout_centerInParent="true" />
+        <Button
+            android:id="@+id/updatenow"
+            android:layout_marginTop="100dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="update"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            ></Button>
+        <Button
+            android:id="@+id/cancel_update"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="cancel"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            ></Button>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

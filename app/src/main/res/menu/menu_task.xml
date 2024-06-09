@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        >
+        <item
+            android:id="@+id/nav_tasks"
+            android:icon="@drawable/task_icon"
+            android:title="Tasks"
+            />
+        <item
+            android:id="@+id/nav_add"
+            android:title="Add Task"
+            android:icon="@drawable/add_icon"
+            />
+        <item
+            android:id="@+id/nav_send"
+            android:title="Send Task"
+            android:icon="@drawable/send_icon"
+            />
+        <item
+            android:id="@+id/nav_receive"
+            android:title="Receive Task"
+            android:icon="@drawable/receive_icon"
+            />
+        <item
+            android:id="@+id/shared_tasks"
+            android:title="Shared Tasks"
+            android:icon="@drawable/shared_tasks"
+            />
+    </group>
+
+
+    <group
+        android:id="@+id/group2"
+        >
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/settings_icon"
+            android:title="Settings"
+            />
+        <item
+            android:id="@+id/nav_collections"
+            android:title="Collections"
+            android:icon="@drawable/collections_icon"
+            />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Log Out"
+            android:icon="@drawable/logout_icon"
+            />
+
+    </group>
+</menu>
