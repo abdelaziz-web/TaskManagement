@@ -16,16 +16,18 @@ This is an Android application designed for task management.
 ### 2. CRUD Operations
 - Users can manage their tasks (Create, Read, Update, Delete).
 - Task information includes ( image, title, description, status (done or not done), user, and date ).
-- ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/3983dfdb-c7da-4021-9f3a-eea8b04ee543)
+  - ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/3983dfdb-c7da-4021-9f3a-eea8b04ee543)
      **Add Task**
+    
   - ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/84ff28b7-dc2c-412d-9271-ee0c73d3f6ee)
       **Update Task**
+    
   - ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/07db6061-996f-4261-91c2-160afe0d449c)
     **Task Information**
+    
   - ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/3fa6dbee-bf03-44b2-b86d-d349e657695a)
       **Show All Tasks**
-  - ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/a3ed962a-2148-4004-b4dc-a5077638d33d)
-
+  
 - to store simple data i use firestore database and storage service from firebase to store the images
 
 ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/3dbb1ea1-16bb-49be-b580-7eb4760028cc)
