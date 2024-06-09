@@ -75,12 +75,12 @@ This is an Android application designed for task management.
 
 ### For Developers
 1. Clone the repository using Android Studio's Version Control with the URL of this repository.
-2. ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/b87fb488-f844-402a-b744-04f288ff2e0e)
-3. Create an account on Firebase (if you don't have one) and set up a new project.
-4. Connect your app to the Firebase project.
-5. ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/cd888edf-5aa0-44c5-821e-3b35ccdc9f11)
-6. Insert the `google-services.json` file into the `app` folder. This file can be obtained from Firebase and contains the credentials and information about the project.
-7. ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/8f9ffeb2-7fe9-40d7-b9de-c5b4514b8e8a)
+  ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/b87fb488-f844-402a-b744-04f288ff2e0e)
+2. Create an account on Firebase (if you don't have one) and set up a new project.
+3. Connect your app to the Firebase project.
+  ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/cd888edf-5aa0-44c5-821e-3b35ccdc9f11)
+4. Insert the `google-services.json` file into the `app` folder. This file can be obtained from Firebase and contains the credentials and information about the project.
+  ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/8f9ffeb2-7fe9-40d7-b9de-c5b4514b8e8a)
 
 
 
