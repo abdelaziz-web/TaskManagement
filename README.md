@@ -80,6 +80,7 @@ This is an Android application designed for task management.
 3. Connect your app to the Firebase project.
   ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/cd888edf-5aa0-44c5-821e-3b35ccdc9f11)
 4. Insert the `google-services.json` file into the `app` folder. This file can be obtained from Firebase and contains the credentials and information about the project.
+
   ![image](https://github.com/abdelaziz-web/TaskManagement/assets/67710015/8f9ffeb2-7fe9-40d7-b9de-c5b4514b8e8a)
 
 
